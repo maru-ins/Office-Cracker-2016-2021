@@ -62,10 +62,3 @@ Menerima bentuk kontribusi seperti:
 
 ---
 
-## Lisensi
-
-Kosongkan bagian ini jika belum menyediakan lisensi.
-
----
-
-_Note:_ Tambahkan panduan penggunaan lebih spesifik atau petunjuk instalasi jika dibutuhkan, apalagi kalau `Tools.zip` berisi dependensi tambahan.  
